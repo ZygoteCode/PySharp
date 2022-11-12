@@ -1,0 +1,6 @@
+C:\Users\gabry\Desktop\PySharp\PySharp\bin\Release\PySharp.dll
+C:\Users\gabry\Desktop\PySharp\PySharp\bin\Release\PySharp.pdb
+C:\Users\gabry\Desktop\PySharp\PySharp\obj\Release\PySharp.csproj.AssemblyReference.cache
+C:\Users\gabry\Desktop\PySharp\PySharp\obj\Release\PySharp.csproj.CoreCompileInputs.cache
+C:\Users\gabry\Desktop\PySharp\PySharp\obj\Release\PySharp.dll
+C:\Users\gabry\Desktop\PySharp\PySharp\obj\Release\PySharp.pdb

@@ -1,0 +1,11 @@
+C:\Users\gabry\Desktop\PySharp\PySharp Test\bin\Debug\PySharp Test.exe.config
+C:\Users\gabry\Desktop\PySharp\PySharp Test\bin\Debug\PySharp Test.exe
+C:\Users\gabry\Desktop\PySharp\PySharp Test\bin\Debug\PySharp Test.pdb
+C:\Users\gabry\Desktop\PySharp\PySharp Test\bin\Debug\PySharp.dll
+C:\Users\gabry\Desktop\PySharp\PySharp Test\bin\Debug\PySharp.pdb
+C:\Users\gabry\Desktop\PySharp\PySharp Test\obj\Debug\PySharp Test.csproj.AssemblyReference.cache
+C:\Users\gabry\Desktop\PySharp\PySharp Test\obj\Debug\PySharp Test.csproj.SuggestedBindingRedirects.cache
+C:\Users\gabry\Desktop\PySharp\PySharp Test\obj\Debug\PySharp Test.csproj.CoreCompileInputs.cache
+C:\Users\gabry\Desktop\PySharp\PySharp Test\obj\Debug\PySharp Test.csproj.CopyComplete
+C:\Users\gabry\Desktop\PySharp\PySharp Test\obj\Debug\PySharp Test.exe
+C:\Users\gabry\Desktop\PySharp\PySharp Test\obj\Debug\PySharp Test.pdb
