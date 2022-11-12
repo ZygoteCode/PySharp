@@ -23,13 +23,25 @@ public class PySharp
     {
         if (Directory.Exists(PySharpDirectory))
         {
-            foreach (string file in Directory.GetFiles(PySharpDirectory))
+            for (int i = 0; i < 100; i++)
             {
                 try
                 {
-                    if (Path.GetFileNameWithoutExtension(file).ToLower().StartsWith($"pysharp_{SessionId}_message"))
+                    if (File.Exists($"pysharp_{SessionId}_message_{i}_from_csharp_to_py"))
                     {
-                        File.Delete(file);
+                        File.Delete($"pysharp_{SessionId}_message_{i}_from_csharp_to_py");
+                    }
+                }
+                catch
+                {
+
+                }
+
+                try
+                {
+                    if (File.Exists($"pysharp_{SessionId}_message_{i}_from_py_to_csharp"))
+                    {
+                        File.Delete($"pysharp_{SessionId}_message_{i}_from_py_to_csharp");
                     }
                 }
                 catch
@@ -81,9 +93,9 @@ public class PySharp
             {
                 try
                 {
-                    if (File.Exists($"{PySharpDirectory}\\pysharp_{SessionId}_message_{i}_from_csharp_to_py"))
+                    if (File.Exists($"{PySharpDirectory}\\pysharp_{SessionId}_message_{i}_from_py_to_csharp"))
                     {
-                        return File.ReadAllText($"{PySharpDirectory}\\pysharp_{SessionId}_message_{i}_from_csharp_to_py");
+                        return File.ReadAllText($"{PySharpDirectory}\\pysharp_{SessionId}_message_{i}_from_py_to_csharp");
                     }
                 }
                 catch

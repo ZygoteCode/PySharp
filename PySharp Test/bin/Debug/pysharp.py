@@ -42,14 +42,21 @@ def clearSession():
     if not path.exists(pySharpDirectory):
         os.mkdir(pySharpDirectory)
         return
-    for file in os.listdir(pySharpDirectory):
+    for i in range(1, 100):
+        strActual = str(i)
         try:
-            if file.startswith("pysharp_" + currentSessionId + "_message_"):
-                os.remove(file)
+            if path.exists(pySharpDirectory + "\\pysharp_" + currentSessionId + "_message_" + strActual + "_from_py_to_csharp"):
+                os.remove(pySharpDirectory + "\\pysharp_" + currentSessionId + "_message_" + strActual + "_from_py_to_csharp")
         except:
             pass
+        try:
+            if path.exists(pySharpDirectory + "\\pysharp_" + currentSessionId + "_message_" + strActual + "_from_csharp_to_py"):
+                os.remove(pySharpDirectory + "\\pysharp_" + currentSessionId + "_message_" + strActual + "_from_csharp_to_py")
+        except:
+            pass          
 
 currentSessionId = sys.argv[1]
+clearSession()
 
 while True:
     print(readMessage())
