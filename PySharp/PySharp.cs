@@ -23,7 +23,7 @@ public class PySharp
     {
         if (Directory.Exists(PySharpDirectory))
         {
-            for (int i = 0; i < 100; i++)
+            for (int i = 1; i <= 100; i++)
             {
                 try
                 {
@@ -89,7 +89,7 @@ public class PySharp
 
         while (true)
         {
-            for (int i = 0; i <= 100; i++)
+            for (int i = 1; i <= 100; i++)
             {
                 try
                 {
