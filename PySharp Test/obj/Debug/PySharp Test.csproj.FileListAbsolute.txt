@@ -1,0 +1,22 @@
+C:\Users\ZygoteCode\Desktop\PySharp\PySharp Test\bin\Debug\PySharp Test.exe.config
+C:\Users\ZygoteCode\Desktop\PySharp\PySharp Test\bin\Debug\PySharp Test.exe
+C:\Users\ZygoteCode\Desktop\PySharp\PySharp Test\bin\Debug\PySharp Test.pdb
+C:\Users\ZygoteCode\Desktop\PySharp\PySharp Test\bin\Debug\PySharp.dll
+C:\Users\ZygoteCode\Desktop\PySharp\PySharp Test\bin\Debug\PySharp.pdb
+C:\Users\ZygoteCode\Desktop\PySharp\PySharp Test\obj\Debug\PySharp Test.csproj.AssemblyReference.cache
+C:\Users\ZygoteCode\Desktop\PySharp\PySharp Test\obj\Debug\PySharp Test.csproj.SuggestedBindingRedirects.cache
+C:\Users\ZygoteCode\Desktop\PySharp\PySharp Test\obj\Debug\PySharp Test.csproj.CoreCompileInputs.cache
+C:\Users\ZygoteCode\Desktop\PySharp\PySharp Test\obj\Debug\PySharp Test.csproj.CopyComplete
+C:\Users\ZygoteCode\Desktop\PySharp\PySharp Test\obj\Debug\PySharp Test.exe
+C:\Users\ZygoteCode\Desktop\PySharp\PySharp Test\obj\Debug\PySharp Test.pdb
+C:\Users\ZygoteCode\Desktop\Computer\Developing\Progetti\ZygoteCode GitHub\Repositories\PySharp\PySharp Test\bin\Debug\PySharp Test.exe.config
+C:\Users\ZygoteCode\Desktop\Computer\Developing\Progetti\ZygoteCode GitHub\Repositories\PySharp\PySharp Test\bin\Debug\PySharp Test.exe
+C:\Users\ZygoteCode\Desktop\Computer\Developing\Progetti\ZygoteCode GitHub\Repositories\PySharp\PySharp Test\bin\Debug\PySharp Test.pdb
+C:\Users\ZygoteCode\Desktop\Computer\Developing\Progetti\ZygoteCode GitHub\Repositories\PySharp\PySharp Test\bin\Debug\PySharp.dll
+C:\Users\ZygoteCode\Desktop\Computer\Developing\Progetti\ZygoteCode GitHub\Repositories\PySharp\PySharp Test\bin\Debug\PySharp.pdb
+C:\Users\ZygoteCode\Desktop\Computer\Developing\Progetti\ZygoteCode GitHub\Repositories\PySharp\PySharp Test\obj\Debug\PySharp Test.csproj.AssemblyReference.cache
+C:\Users\ZygoteCode\Desktop\Computer\Developing\Progetti\ZygoteCode GitHub\Repositories\PySharp\PySharp Test\obj\Debug\PySharp Test.csproj.SuggestedBindingRedirects.cache
+C:\Users\ZygoteCode\Desktop\Computer\Developing\Progetti\ZygoteCode GitHub\Repositories\PySharp\PySharp Test\obj\Debug\PySharp Test.csproj.CoreCompileInputs.cache
+C:\Users\ZygoteCode\Desktop\Computer\Developing\Progetti\ZygoteCode GitHub\Repositories\PySharp\PySharp Test\obj\Debug\PySharp Test.csproj.CopyComplete
+C:\Users\ZygoteCode\Desktop\Computer\Developing\Progetti\ZygoteCode GitHub\Repositories\PySharp\PySharp Test\obj\Debug\PySharp Test.exe
+C:\Users\ZygoteCode\Desktop\Computer\Developing\Progetti\ZygoteCode GitHub\Repositories\PySharp\PySharp Test\obj\Debug\PySharp Test.pdb

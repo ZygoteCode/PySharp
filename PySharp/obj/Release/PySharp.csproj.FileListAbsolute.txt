@@ -1,0 +1,12 @@
+C:\Users\ZygoteCode\Desktop\PySharp\PySharp\bin\Release\PySharp.dll
+C:\Users\ZygoteCode\Desktop\PySharp\PySharp\bin\Release\PySharp.pdb
+C:\Users\ZygoteCode\Desktop\PySharp\PySharp\obj\Release\PySharp.csproj.AssemblyReference.cache
+C:\Users\ZygoteCode\Desktop\PySharp\PySharp\obj\Release\PySharp.csproj.CoreCompileInputs.cache
+C:\Users\ZygoteCode\Desktop\PySharp\PySharp\obj\Release\PySharp.dll
+C:\Users\ZygoteCode\Desktop\PySharp\PySharp\obj\Release\PySharp.pdb
+C:\Users\ZygoteCode\Desktop\Computer\Developing\Progetti\ZygoteCode GitHub\Repositories\PySharp\PySharp\bin\Release\PySharp.dll
+C:\Users\ZygoteCode\Desktop\Computer\Developing\Progetti\ZygoteCode GitHub\Repositories\PySharp\PySharp\bin\Release\PySharp.pdb
+C:\Users\ZygoteCode\Desktop\Computer\Developing\Progetti\ZygoteCode GitHub\Repositories\PySharp\PySharp\obj\Release\PySharp.csproj.AssemblyReference.cache
+C:\Users\ZygoteCode\Desktop\Computer\Developing\Progetti\ZygoteCode GitHub\Repositories\PySharp\PySharp\obj\Release\PySharp.csproj.CoreCompileInputs.cache
+C:\Users\ZygoteCode\Desktop\Computer\Developing\Progetti\ZygoteCode GitHub\Repositories\PySharp\PySharp\obj\Release\PySharp.dll
+C:\Users\ZygoteCode\Desktop\Computer\Developing\Progetti\ZygoteCode GitHub\Repositories\PySharp\PySharp\obj\Release\PySharp.pdb
